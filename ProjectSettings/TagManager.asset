@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - intersection
+  - Crosswalk
+  - LaneMarker
+  - TurnLane
+  - TrafficLight
+  - UserCar
+  - speedometer
+  - SensorWarning
+  - RecordPosition
+  - WeatherWarning
+  - Anchor
+  - streetlight
+  - dayLight
+  - pedestrian
+  - sign
+  - GPS
+  - SceneManager
+  - FlowManager
+  - SessionInfoDisplay
+  - PathManagers
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - VisionBlocker
+  - RoadLines
+  - Sidewalks
+  - Road
+  - Crosswalk
+  - vehicles
+  - Sig
+  - GPS
+  - ExitLayer
+  - Phone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

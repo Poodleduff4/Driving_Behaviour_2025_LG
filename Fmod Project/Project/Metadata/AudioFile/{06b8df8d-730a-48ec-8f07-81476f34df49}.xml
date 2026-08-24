@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{06b8df8d-730a-48ec-8f07-81476f34df49}">
+		<property name="assetPath">
+			<value>freesound_community-heavy-rain-from-inside-car-53318.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>600.048</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{4dc55b34-728f-423c-9005-19988ee16caa}</destination>
+		</relationship>
+	</object>
+</objects>
